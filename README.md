@@ -1,6 +1,7 @@
 ## About
 
 Exercices done in order to learn the basics of C language and Linux.
+
 Topics covered : 
 * Inter process communication methods 
 * File descriptors and locking the files
