@@ -1,7 +1,11 @@
 ## About
 
-Exercices done in order to learn the basics of C language and also structures used by the Linux.
-Apart from the structures, inter process communication methods were considered as well as internet protocols (TCP/UDP).
+Exercices done in order to learn the basics of C language and Linux.
+Topics covered : 
+* Inter process communication methods 
+* File descriptors and locking the files
+* Concurrent processes 
+* Internet Protocols (UDP/TCP)
 
 #### Technologies used :
 * C 
