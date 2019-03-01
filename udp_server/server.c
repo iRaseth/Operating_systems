@@ -20,7 +20,7 @@ int read_msg(int des)
 		if(readbytes == -1)
 			perror("readbytes");
 		if(number%3==0)
-			printf("podzielna przez 3 : %d\n",number);
+			printf("divisible by 3 : %d\n",number);
 	}
 }
 
